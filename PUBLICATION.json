@@ -1,9 +1,16 @@
 {
-  "role": "public-support-only",
-  "mod": "GPSLite",
-  "kingmods_url": "https://www.kingmods.net/en/fs25/mods/81700/gps-lite",
-  "kingmods_listed_version": "V1.3.0.2",
-  "checked": "2026-10-24",
-  "source_code_visibility": "private",
-  "contains_mod_source": false
+  "name": "GPSLite",
+  "repository": "dafke1305/FS25_GPSLite",
+  "native_version": "1.3.0.2",
+  "tag": "v1.3.0.2",
+  "file": "FS25_GPSLite.zip",
+  "sha256": "5a6c4554a3dfb2345bd102c17c41a2cd052e3acd6043d06c139aad4e0d0581e1",
+  "bytes": 157877,
+  "kingmods": "https://www.kingmods.net/en/fs25/mods/81700/gps-lite",
+  "crc": "passed",
+  "source_changes": "none",
+  "prerelease": false,
+  "policy": "support and public release ZIPs of versions already on KingMods only",
+  "source": "author local release archive",
+  "download": "https://github.com/dafke1305/FS25_GPSLite/releases/download/v1.3.0.2/FS25_GPSLite.zip"
 }
