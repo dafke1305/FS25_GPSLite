@@ -1,5 +1,7 @@
 # GPSLite
 
+**Handleidingen / User guides:** [Nederlands](HANDLEIDING.md) · [English](USER_GUIDE.md)
+
 Farming Simulator 25 mod by TFU-dafke.
 
 ## Download
